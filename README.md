@@ -2,8 +2,8 @@
 // @name Auto             Join Group Facebook
 // @namespace          Auto Join Group Facebook ver.1.0
 // @description           Join Grup Otomatis 
-// @author			13470X (http://www.facebook.com/erwin.dimitri)
-// @icon			http://profile.ak.fbcdn.net/hprofile-ak-snc4/211212_123119524438901_2557853_n.jpg
+// @author			13470X (https://www.facebook.com/edi.hidayat.965)
+// @icon			https://m.facebook.com/edi.hidayat.965?refid=46&__xts__%5B0%5D=12.AbrUXoCJJiWIrtWCTSOv41urW9twpo9Qy36tRV5JRPLMA31N51sebb9I30Yk5Lklo4c2lwB0VmCT06CyvdCP3n9a7X0zfoZsbGzVED8swEBIexNbwBWqeDDEiqijetCVtsRoqZSX91f0qVBhLsQBVh_p3HE4uItqTk59QWKBJ30fJTVCVANahe_74hmWZTc6hA3VtZpCRw80pkRNw4RSdeWLbGTlBnYHdl8UEJNL32myXlDNa5MQdi_cnoGJsZ8X7WwjZnFwGD7-1c4sJNoZZjAk4iz4PUl8adlZzoLfNAdiqkFy8JXk2FFdrWMuQHfCgPKgeNv_0jR-gpZsDZIIyK0sZ_AHvHPC7Mhyiva3KTrtvac-NiWjQflRLs5F1-NZD4aFGgnKvhVXj-8L_YvbnISiKGAgPhVo-WU55yt51ItdI98LytkrVvPs8j0g1XgXvmHOARyFmGfOzARod5opf5KcMWMVeaKaKBWmYeQPgqKg4xfDAnfhqjvM3J-KaGsCk-6lVnmQVBhN_Ink-pMKSI9KP_v3FQCWBf01FGWP6_T8ERU5wtEmaZ_P7aIeOnNqqGU&_rdr
 // @include			http://www.facebook.com/*
 // @include			https://www.facebook.com/*
 // @exclude			htt*://developers.facebook.com/*
@@ -27,7 +27,7 @@ if(body != null) {
 	div.style.backgroundColor = "#eceff5";
 	div.style.border = "1px dashed #94a3c4";
 	div.style.padding = "2px";
-	div.innerHTML = "<center><a href='http://www.facebook.com/erwin.dimitri'><img src='https://pbs.twimg.com/profile_images/502451294137618432/effnuCCh_400x400.jpeg' alt='Sabar...' width=126 hight=100</a></center>"
+	div.innerHTML = "<center><a href='https://m.facebook.com/edi.hidayat.965?refid=46&__xts__%5B0%5D=12.AbrUXoCJJiWIrtWCTSOv41urW9twpo9Qy36tRV5JRPLMA31N51sebb9I30Yk5Lklo4c2lwB0VmCT06CyvdCP3n9a7X0zfoZsbGzVED8swEBIexNbwBWqeDDEiqijetCVtsRoqZSX91f0qVBhLsQBVh_p3HE4uItqTk59QWKBJ30fJTVCVANahe_74hmWZTc6hA3VtZpCRw80pkRNw4RSdeWLbGTlBnYHdl8UEJNL32myXlDNa5MQdi_cnoGJsZ8X7WwjZnFwGD7-1c4sJNoZZjAk4iz4PUl8adlZzoLfNAdiqkFy8JXk2FFdrWMuQHfCgPKgeNv_0jR-gpZsDZIIyK0sZ_AHvHPC7Mhyiva3KTrtvac-NiWjQflRLs5F1-NZD4aFGgnKvhVXj-8L_YvbnISiKGAgPhVo-WU55yt51ItdI98LytkrVvPs8j0g1XgXvmHOARyFmGfOzARod5opf5KcMWMVeaKaKBWmYeQPgqKg4xfDAnfhqjvM3J-KaGsCk-6lVnmQVBhN_Ink-pMKSI9KP_v3FQCWBf01FGWP6_T8ERU5wtEmaZ_P7aIeOnNqqGU&_rdr'><img src='https://pbs.twimg.com/profile_images/502451294137618432/effnuCCh_400x400.jpeg' alt='Sabar...' width=126 hight=100</a></center>"
 	
 	div2 = document.createElement("div");
 	div2.setAttribute('id','spoiler');
@@ -105,7 +105,7 @@ if(body != null) {
 	div.style.backgroundColor = "#eceff5";
 	div.style.border = "1px dashed #94a3c4";
 	div.style.padding = "2px";
-	div.innerHTML = "<img src='http://t2.gstatic.com/images?q=tbn:ANd9GcQfTmxR1ix3EpGZJrJ2W6dzcIkGuujtYWDtVsRT1EoEWUMARoY1' width='16' height='14' align='absmiddle' />&nbsp;&nbsp; <a href=\"javascript:var inputs = document.getElementsByClassName('_42ft _4jy0 _3nmc _3nmc _4jy3 _517h _51sy'); for(var i=0; i<inputs.length;i++) { inputs[i].click(); }\">Auto Join 2</a>"
+	div.innerHTML = "<https://images.app.goo.gl/ryniKEsg65iLZ5gf9' width='16' height='14' align='absmiddle' />&nbsp;&nbsp; <a href=\"javascript:var inputs = document.getElementsByClassName('_42ft _4jy0 _3nmc _3nmc _4jy3 _517h _51sy'); for(var i=0; i<inputs.length;i++) { inputs[i].click(); }\">Auto Join 2</a>"
 
 	body.appendChild(div);
 }
